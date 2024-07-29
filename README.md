@@ -19,7 +19,13 @@ Future development of this application could be taken further through the additi
 
 ## Live Screen Recording
 
+
+https://github.com/user-attachments/assets/d1eae889-736a-4505-93da-55ab081cba36
+
+
 ## Screenshots
+![Screenshot 2024-07-29 154907](https://github.com/user-attachments/assets/dd91d943-785e-4591-a000-942b0c4ca26a)
+![Screenshot 2024-07-29 154931](https://github.com/user-attachments/assets/694b97f5-c06c-4985-9542-e597c464bf72)
 
 ## Tech Used
 This application is powered by Node.js (v16.19.1), Express.js (v14.17.1), JavaScript, MySQL, and Sequelize (ORM). It utilizes the node package manager (npm) dependencies sequelize (v5.22.5), mysql2 (v2.3.3), express (v4.17.1), dotenv (v8.6.0), and nodemon (v2.0.3). Also, the Insomnia application was utilized to test the functionality of routes within the program.
